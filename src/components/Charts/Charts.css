@@ -1,0 +1,11 @@
+.inputData{
+  width: 90%;
+  padding: 10px;
+  margin: 20px;
+  font-size: 1rem;
+}
+
+.inputData::placeholder{
+  text-align: center;
+  font-size: 1rem;
+}
