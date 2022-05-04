@@ -178,8 +178,8 @@ export default function Charts() {
         options={options}
       />
       <div>
-        <Button name="Generate Chart" onClick={GenerateChart} />
         <Button name="Preset Value" onClick={() => setText(valor)} />
+        <Button name="Generate Chart" onClick={GenerateChart} />
       </div>
     </div>
   );
