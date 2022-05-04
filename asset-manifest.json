@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/intelie-chart/static/css/main.72df5ddb.css",
-    "main.js": "/intelie-chart/static/js/main.732e0446.js",
+    "main.css": "/intelie-chart/static/css/main.7e688d20.css",
+    "main.js": "/intelie-chart/static/js/main.762b6bd0.js",
     "index.html": "/intelie-chart/index.html",
-    "main.72df5ddb.css.map": "/intelie-chart/static/css/main.72df5ddb.css.map",
-    "main.732e0446.js.map": "/intelie-chart/static/js/main.732e0446.js.map"
+    "main.7e688d20.css.map": "/intelie-chart/static/css/main.7e688d20.css.map",
+    "main.762b6bd0.js.map": "/intelie-chart/static/js/main.762b6bd0.js.map"
   },
   "entrypoints": [
-    "static/css/main.72df5ddb.css",
-    "static/js/main.732e0446.js"
+    "static/css/main.7e688d20.css",
+    "static/js/main.762b6bd0.js"
   ]
 }
