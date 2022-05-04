@@ -45,6 +45,7 @@ No primeiro momento, a lógica solicitada pareceu complexa; mas, após reler alg
 <ul>
 <li>JSON5</li>
 <li>Google React Charts</li>
+<li>Toastify</li>
 <li>Node Version: v16.7.0</li>
 <li>NPM Version: 7.20.3</li>
 </ul>
