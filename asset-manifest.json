@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/intelie-chart/static/css/main.72df5ddb.css",
+    "main.js": "/intelie-chart/static/js/main.732e0446.js",
+    "index.html": "/intelie-chart/index.html",
+    "main.72df5ddb.css.map": "/intelie-chart/static/css/main.72df5ddb.css.map",
+    "main.732e0446.js.map": "/intelie-chart/static/js/main.732e0446.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72df5ddb.css",
+    "static/js/main.732e0446.js"
+  ]
+}
