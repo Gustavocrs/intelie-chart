@@ -31,7 +31,7 @@ No primeiro momento, a lógica solicitada pareceu complexa; mas, após reler alg
 
 </p>
 
-<h3>Access the project / Acesse o projeto</h3><a href="https://gustavocrs.github.io/chart/">Click here / Clique Aqui</a>
+<h3>Access the project / Acesse o projeto</h3><a href="https://gustavocrs.github.io/intelie-chart/">Click here / Clique Aqui</a>
 
 <div><p><h3>Languages used / Linguagens utilizadas</h3></p>
 
